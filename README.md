@@ -1,6 +1,6 @@
 # srinstitute_demo
 This is my first Git Repository
 <br>
-Author-Satyam
+Author-Sachendra
 <br>
 Dis-About SRIMT
